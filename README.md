@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 MONGO, EXPRESS, REACT & NODE.
+- 📦 MONGO, EXPRESS, REACT & NODE.js.
 
 ## Getting Started
 
